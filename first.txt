@@ -1,1 +1,4 @@
+Welcome !
 Learning how to create a file with any extensions supported in GitHub
+
+Regards :)
